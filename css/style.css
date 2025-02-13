@@ -561,17 +561,6 @@ a:focus {
     width: 100%;
 }
 
-.experience .timeline::after {
-    content: '';
-    position: absolute;
-    width: 2px;
-    background: #EF233C;
-    top: 0;
-    bottom: 0;
-    left: 50%;
-    margin-left: -1px;
-}
-
 .experience .timeline .timeline-item {
     position: relative;
     background: inherit;
